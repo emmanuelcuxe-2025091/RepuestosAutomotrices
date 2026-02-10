@@ -1,6 +1,6 @@
 package com.emmanuelcuxe.RepuestosAutomotrices.controller;
 
-import com.emmanuelcuxe.RepuestosAutomotrices.model.Empleado;
+import com.emmanuelcuxe.RepuestosAutomotrices.entity.Empleado;
 import com.emmanuelcuxe.RepuestosAutomotrices.service.EmpleadoService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;

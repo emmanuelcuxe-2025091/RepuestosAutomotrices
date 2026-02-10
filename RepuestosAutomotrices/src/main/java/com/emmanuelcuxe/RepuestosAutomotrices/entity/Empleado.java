@@ -1,4 +1,4 @@
-package com.emmanuelcuxe.RepuestosAutomotrices.model;
+package com.emmanuelcuxe.RepuestosAutomotrices.entity;
 
 import jakarta.persistence.*;
 

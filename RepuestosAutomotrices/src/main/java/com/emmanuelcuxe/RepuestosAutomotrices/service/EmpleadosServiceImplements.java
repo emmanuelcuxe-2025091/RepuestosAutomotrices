@@ -1,6 +1,6 @@
 package com.emmanuelcuxe.RepuestosAutomotrices.service;
 
-import com.emmanuelcuxe.RepuestosAutomotrices.model.Empleado;
+import com.emmanuelcuxe.RepuestosAutomotrices.entity.Empleado;
 import com.emmanuelcuxe.RepuestosAutomotrices.repository.EmpleadoRepository;
 import org.springframework.stereotype.Service;
 
